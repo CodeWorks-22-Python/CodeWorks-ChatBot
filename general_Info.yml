@@ -1,18 +1,18 @@
 categories:
-#tested
 - General Information
 conversations:
+  # some have issues with responses without 'question marks'
 - - What is CodeWorks?
   - CodeWorks is a 5-week experience where Baltimore City residents between the ages of 14 and 21 get paid to learn real-world tech skills!
 - - Who are CodeWorks?
   - CodeWorks is a 5-week experience where Baltimore City residents between the ages of 14 and 21 get paid to learn real-world tech skills!
-- - When did CodeWorks first begin?
+- - When did CodeWorks first begin? #the lowercase of this is not recognized at all
   - CodeWorks had its first run up in the summer of 2017.
-- - When did CodeWorks start?
+- - When did CodeWorks start? #lowercase and no '?' is not recognized. misspelling has to be minimal.
   - CodeWorks had its first run up in the summer of 2017.
-- - How do I sign up for CodeWorks?
+- - How do I sign up for CodeWorks? #lowercase responses return the codeinschools website.
   - CodeWorks happens every summer. To sign up, you will need to apply for YouthWorks here, followed by applying for CodeWorks to be your worksite.
-- - How to apply for CodeWorks?
+- - How to apply for CodeWorks? #upper and lowercase responses sometimes return the codeinschools website.
   - CodeWorks happens every summer. To sign up, you will need to apply for YouthWorks here, followed by applying for CodeWorks to be your worksite.
 - - I want to apply to CodeWorks, How do I apply?
   - CodeWorks happens every summer. To sign up, you will need to apply for YouthWorks here, followed by applying for CodeWorks to be your worksite.
@@ -22,7 +22,7 @@ conversations:
   - You or your child must be between the ages 14 and 21.
 - - Am I old enough for CodeWorks?
   - You or your child must be between the ages 14 and 21.
-- - What programs are available?
+- - What programs are available? #has issues recognizing uppercase
   - We've offered participants the opportunity to explore Game Development, Web Development, and Software Development with Python.
 - - What tracks are available?
   - We've offered participants the opportunity to explore Game Development, Web Development, and Software Development with Python.
@@ -42,7 +42,7 @@ conversations:
   - Game Development, Web Development, and Python have 3 levels. Intro, Intermediate, and Advanced.
 - - What is CodeWorks daily schedule?
   - CodeWorks takes place Monday through Thursday from 9:00 AM to 4:00 PM. Students will start their day with a Stand-Up from 9:00 AM to 9:45 AM. Students will enter their track room and begin working for the day from 10:00 AM to 3:00 PM with small breaks every hour, and lunch from 11:15 AM to 12:00 PM. Ending their day with an advisory session from 3:00 PM to 4:00 PM.
-- - What is CodeWorks scedule?
+- - What is CodeWorks schedule?
   - CodeWorks takes place Monday through Thursday from 9:00 AM to 4:00 PM. Students will start their day with a Stand-Up from 9:00 AM to 9:45 AM. Students will enter their track room and begin working for the day from 10:00 AM to 3:00 PM with small breaks every hour, and lunch from 11:15 AM to 12:00 PM. Ending their day with an advisory session from 3:00 PM to 4:00 PM.
 - - Will CodeWorks happen next year?
   - Yes! We plan for CodeWorks to continue each year for the foreseeable future.
@@ -66,7 +66,7 @@ conversations:
   - Code in the Schools. You can find more information about Code in the Schools by visiting their website at https://www.codeintheschools.org/
 - - How many developers are signed up?
   - Over 100 developers have signed up for CodeWorks 2022.
-- - Is CodeWorks free?
+- - Is CodeWorks free? #lowercase does not work
   - Yes! CodeWorks is completely and totally free. In fact, students are the ones who get paid for learning!
 - - Is it free?
   - Yes! CodeWorks is completely and totally free. In fact, students are the ones who get paid for learning!
@@ -99,27 +99,20 @@ conversations:
 - - Can I use my projects that I've made?
   - Absolutely! Many of the projects, especially the final projects, can be utilized on a developer's resume.
 - - Will my child’s information be displayed?
-  - In CodeWorks, your child’s personal information will not be displayed, such as having their face on the website is optional for everyone!
-CodeWorks only keeps relevant information that is essential to the program. If you wish to receive a copy of the information we have stored, please, contact us at our website at 
-https://www.codeintheschools.org/contact
+  - In CodeWorks, your child’s personal information will not be displayed, such as having their face on the website is optional for everyone! CodeWorks only keeps relevant information that is essential to the program. If you wish to receive a copy of the information we have stored, please, contact us at our website at https://www.codeintheschools.org/contact
 - - Will my children's information be displayed?
-  - In CodeWorks, your child’s personal information will not be displayed, such as having their face on the website is optional for everyone!
-CodeWorks only keeps relevant information that is essential to the program. If you wish to receive a copy of the information we have stored, please, contact us at our website at 
-https://www.codeintheschools.org/contact
+  - In CodeWorks, your child’s personal information will not be displayed, such as having their face on the website is optional for everyone! CodeWorks only keeps relevant information that is essential to the program. If you wish to receive a copy of the information we have stored, please, contact us at our website at https://www.codeintheschools.org/contact
 - -  I'm concerned about my child's information is it safe?
-  - In CodeWorks, your child’s personal information will not be displayed, such as having their face on the website is optional for everyone!
-CodeWorks only keeps relevant information that is essential to the program. If you wish to receive a copy of the information we have stored, please, contact us at our website at
-https://www.codeintheschools.org/contact
+  - In CodeWorks, your child’s personal information will not be displayed, such as having their face on the website is optional for everyone! CodeWorks only keeps relevant information that is essential to the program. If you wish to receive a copy of the information we have stored, please, contact us at our website at https://www.codeintheschools.org/contact
 - - I'm concerned about my children's information id it safe?
-  - In CodeWorks, your child’s personal information will not be displayed, such as having their face on the website is optional for everyone!
-CodeWorks only keeps relevant information that is essential to the program. If you wish to receive a copy of the information we have stored, please, contact us at our website at https://www.codeintheschools.org/contact
+  - In CodeWorks, your child’s personal information will not be displayed, such as having their face on the website is optional for everyone! CodeWorks only keeps relevant information that is essential to the program. If you wish to receive a copy of the information we have stored, please, contact us at our website at https://www.codeintheschools.org/contact
 - - CodeWorks
   - CodeWorks is a 5-week experience where Baltimore City residents between the ages of 14 and 21 get paid to learn real-world tech skills!
-- - are Codeworks
+- - are CodeWorks
   - CodeWorks is a 5-week experience where Baltimore City residents between the ages of 14 and 21 get paid to learn real-world tech skills!
 - - is CodeWorks
   - CodeWorks is a 5-week experience where Baltimore City residents between the ages of 14 and 21 get paid to learn real-world tech skills!
-- - CodeWorks deput
+- - CodeWorks debut
   - CodeWorks had its first run up in the summer of 2017.
 - - CodeWorks startup year
   - CodeWorks had its first run up in the summer of 2017.
